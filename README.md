@@ -54,7 +54,7 @@ Requirements:
 
 Once the backend and the fronted are started, you can navigate to `http://localhost:3000` in your browser and start resolving multiplication challenges. This time, you'll see the Leaderboard.
 
-![Application - Screenshot](resources/app-screenshot-leaderboard-1b.png)
+![Application - Screenshot](resources/app-chapter7-after10.png)
 
 ## Questions
 
